@@ -1,0 +1,13 @@
+/settings.py
+*.pyc
+dist/
+*.egg-info/
+env
+.idea/
+.DS_Store
+/__pycache__
+/bitmex_market_maker.egg-info
+/dist
+/test
+/build
+
